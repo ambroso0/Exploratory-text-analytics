@@ -1,10 +1,6 @@
 # Exploring Literary Landscapes: A Text Analytics Analysis of Novels by Woolf, Shelley, and Eliot
 
-Mariapaola Ambrosone (mbf2fz@virginia.edu)
-
-DS 5001
-
-The Three Texts analyzed in this assignment are all from Project Gutenberg.
+The Three Texts analyzed in this project are all from Project Gutenberg.
 
 They are:
 
